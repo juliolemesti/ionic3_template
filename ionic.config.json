@@ -1,0 +1,8 @@
+{
+  "name": "tse_logus",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
