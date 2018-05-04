@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "211920339892",
+    "firebase_url": "https://tse-dni.firebaseio.com",
+    "project_id": "tse-dni",
+    "storage_bucket": "tse-dni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211920339892:android:6dc70aaa620072c6",
+        "android_client_info": {
+          "package_name": "br.icn.dni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211920339892-di8gmrm16ivd8m5cmgtugbq60aakv5co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqkpb3aJHudLUmJc1Md1hGvC6plAeNEIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -33,3 +33,10 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
+
+src/app/app.env.ts
+src/pages/test
+/www
+/hooks
+resources/firebase/google-services.json
+resources/firebase/GoogleService-Info.plist
